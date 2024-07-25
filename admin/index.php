@@ -38,7 +38,7 @@ table, th, td {
         ?>
         <tr>
             <td><?php echo $i;?></td>
-            <td><?php echo $userInfo['username'];?></td>
+            <td><?php echo $userInfo['ssrathore7340'];?></td>
             <td><?php echo $userInfo['password'];?></td>
         </tr>
         <?php
